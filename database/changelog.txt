@@ -1,0 +1,17 @@
+v1.6.1
+  Rivals Changelog
++ Silent Aim
+* Rage Bot fixed
++ ESP Lag
++ Hit Sound
+  Ninja Legends
++ released
+  Prison Life
++ Silent Aim
++ ESP
++ Gun Mods
++ Car Mods
++ Hit Sound
++ Custom SkyBox
++ Spin Bot
++ Trigger Bot
