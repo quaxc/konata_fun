@@ -1,12 +1,12 @@
 v1.6.1
-  Rivals Changelog
+Rivals Changelog
 + Silent Aim
 * Rage Bot fixed
 + ESP Lag
 + Hit Sound
-  Ninja Legends
+Ninja Legends Changelog
 + released
-  Prison Life
+Prison Life Changelog
 + Silent Aim
 + ESP
 + Gun Mods
